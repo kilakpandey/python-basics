@@ -5,27 +5,35 @@ strengthen my programming fundamentals.
 
 ## Programs Included
 
-### Basic Operations
+### Basic Operations & Input/Output
 - Sum of two numbers
 - Remainder calculation
 - Average of two input values
 - Square of a number
-
-### Input, Conditions, and Data Types
-- Data type finder
-- Comparison of two input values
-
-### String Manipulation
 - Greeting the user using input
 - Filling a letter template using string replacement
+- Formatting text using escape sequence characters
+
+### Lists
+- Store seven fruits in a list entered by the user
+- Accept marks of six students and display them in sorted order
+- Calculate the sum of numbers in a list
+
+### Conditions & String Handling
+- Data type finder
+- Comparison of two input values
 - Detecting double spaces in a string
 - Replacing double spaces with single spaces
-- Formatting text using escape sequence characters
+
+### Tuples
+- Demonstrating that tuples are immutable
+- Counting the number of zeros in a tuple
 
 ## Concepts Covered
 - Input and output
-- Conditional logic
+- Lists and tuples
 - String manipulation
+- Conditional logic
 - Basic formatting
 
 ## Purpose
