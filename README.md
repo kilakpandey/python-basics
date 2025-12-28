@@ -19,11 +19,17 @@ strengthen my programming fundamentals.
 - Accept marks of six students and display them in sorted order
 - Calculate the sum of numbers in a list
 
-### Conditions & String Handling
+### Conditional Logic & String Handling
+- Finding the greatest of four numbers
+- Student pass/fail check based on subject marks and percentage
+- Calculating student grade using a grading scheme
+- Detecting spam comments using keyword matching
+- Checking username length validity
+- Checking whether a name exists in a list
+- Detecting whether a post mentions a specific name (case-insensitive)
+- Detecting and replacing double spaces in strings
 - Data type finder
 - Comparison of two input values
-- Detecting double spaces in a string
-- Replacing double spaces with single spaces
 
 ### Tuples
 - Demonstrating that tuples are immutable
@@ -39,12 +45,13 @@ strengthen my programming fundamentals.
 - Hindi to English word lookup using a dictionary
 - Storing friends' favorite languages using dictionary input
 - Difference between empty set and empty dictionary
+- Understanding dictionary key overwrite behavior
 
 ## Concepts Covered
 - Input and output
+- Conditional logic and decision making
 - Lists, tuples, sets, and dictionaries
-- String manipulation
-- Conditional logic
+- String manipulation and validation
 - Data type behavior and edge cases
 - Basic formatting
 
