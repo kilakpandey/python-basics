@@ -31,6 +31,15 @@ strengthen my programming fundamentals.
 - Data type finder
 - Comparison of two input values
 
+### Loops
+- Printing multiplication table using for loop
+- Printing multiplication table using while loop
+- Greeting specific names from a list using loops
+- Checking whether a number is prime
+- Calculating the sum of first n natural numbers
+- Calculating factorial of a number using loop
+- Printing star patterns using loops
+
 ### Tuples
 - Demonstrating that tuples are immutable
 - Counting the number of zeros in a tuple
@@ -50,6 +59,7 @@ strengthen my programming fundamentals.
 ## Concepts Covered
 - Input and output
 - Conditional logic and decision making
+- Loops and iteration
 - Lists, tuples, sets, and dictionaries
 - String manipulation and validation
 - Data type behavior and edge cases
