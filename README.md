@@ -40,6 +40,14 @@ strengthen my programming fundamentals.
 - Calculating factorial of a number using loop
 - Printing star patterns using loops
 
+### Functions
+- Finding the greatest of three numbers using a function
+- Converting temperature from Celsius to Fahrenheit using a function
+
+### Recursion
+- Calculating the sum of first n natural numbers using recursion
+- Printing star patterns using recursion
+
 ### Tuples
 - Demonstrating that tuples are immutable
 - Counting the number of zeros in a tuple
@@ -60,6 +68,7 @@ strengthen my programming fundamentals.
 - Input and output
 - Conditional logic and decision making
 - Loops and iteration
+- Functions and recursion
 - Lists, tuples, sets, and dictionaries
 - String manipulation and validation
 - Data type behavior and edge cases
